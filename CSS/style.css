@@ -58,7 +58,7 @@ main{
     margin: 10px;
     border: 1px solid var(--primary-brand-color);
     box-shadow: 1px 1px 12px 1px var(--shadow-gray-light);
-    font-size:26px;
+    font-size:20px;
     text-transform: capitalize;
     font-family: var(--logo-font);
 }
