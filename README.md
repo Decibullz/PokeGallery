@@ -15,7 +15,7 @@ a simple web application that displays pokemon data using the pokemon API
 
 ## Getting started
 
-[click here](#) to see the deployed app!
+[click here](https://decibullz.github.io/PokeGallery/) to see the deployed app!
 
 ## Future Enancements
 -The ability to save favorites to localstorage
