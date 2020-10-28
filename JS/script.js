@@ -22,7 +22,7 @@ function init() {
     getData();
 }
 function getData(detailURL) {
-    console.log('detailURL', detailURL)
+    // console.log('detailURL', detailURL)
     // declare a local variable to take whichever url we need
     let url;
     if(detailURL === undefined) {
